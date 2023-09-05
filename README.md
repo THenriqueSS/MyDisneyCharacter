@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 
-> O Watch box, é um aplicativo que mostra os personagens da disney e em que filmes, curtas e programas de tv eles tem participação
+> The Disney box was made as part of a challenge launched for learning mobile code IOS, it has an initial screen with the image and name of the Disney character, and a details screen with information about which movies, which shorts and which programs tv that character participated, all this information is obtained through the Disney API.
 
 
 ## 🎥 DEMO
